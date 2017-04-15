@@ -1,0 +1,23 @@
+{
+  "name": "npm-learn",
+  "version": "0.1.0",
+  "description": "prints hello world to console",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajinkya1221/npm-learn.git"
+  },
+  "keywords": [
+    "hello",
+    "world"
+  ],
+  "author": "Ajinkya Bhagwat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ajinkya1221/npm-learn/issues"
+  },
+  "homepage": "https://github.com/ajinkya1221/npm-learn#readme"
+}
