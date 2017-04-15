@@ -1,6 +1,6 @@
 {
   "name": "ajinkya-npm-learn",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "prints hello world to console",
   "main": "index.js",
   "scripts": {
